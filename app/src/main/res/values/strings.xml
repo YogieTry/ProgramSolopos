@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Epaper Solopos</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="pembaca">Selamat Datang di Aplikasi Epaper Solopos</string>
+    <string name="keterangan">Berikut Panduan Aplikasi Epaper Solopos</string>
+
+    <string name="mudah">Mudah Digunakan</string>
+    <string name="slide_2_desc">Sangat Mudah Untuk Digunakan</string>
+
+    <string name="slide_3_title">Great Discounts</string>
+    <string name="slide_3_desc">Dapat dengan mudah berlangganan koran solopos</string>
+
+    <string name="langganan">Dapat Berlangganan E paper</string>
+    <string name="slide_4_desc">Mudah Untuk Berlangganan</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
